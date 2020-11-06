@@ -20,7 +20,7 @@ Then run
 gcc -o gbafix.exe gbafix.c
 
 # Usage
-Copy the directory robolib to your project folder _(where your main c file is)_.\ 
+Copy the directory robolib to your project folder _(where your main c file is)_ \ 
 Include GBARoboLib to your main c file with the command\
 #include "robolib/gbarobot.h"\
 See the example code _(robot_avoid_obstacles_example.c)_ in this repository in order to understand how to use this library
@@ -28,4 +28,4 @@ See the example code _(robot_avoid_obstacles_example.c)_ in this repository in o
 # make.bat
 I have included a bat file _(make.bat)_ to automate the compile process in Windows\
 Edit this file and change the second line with the name of your main c file _(without the extention)_\
-You must also change the third line with the path where you installed DevKit Advance
+You must also change the third line with the path where you copied DevKit Advance bin directory
