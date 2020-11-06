@@ -26,5 +26,4 @@ See the example code _(robot_avoid_obstacles_example.c)_ in this repository in o
 
 # bat files
 I have included a bat files _(make_NAME_OF_EXAMPLE_CODE.bat)_ to automate the compile process in Windows\
-To create your own just copy this file and edit the second line. Change it with the name of your main c file _(without the extention)_\
-Change also the third line with the path where you copied DevKit Advance bin directory in your system
+To create your own, just copy this file and edit the second and third line. Change the second line with the name of your main c file _(without the extention)_ and the third line with the path where you copied DevKit Advance bin directory in your system
