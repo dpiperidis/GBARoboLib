@@ -24,7 +24,7 @@ Copy the directory robolib to your project folder _(where your main c file is)_.
 #include "robolib/gbarobot.h"\
 See the example code _(robot_avoid_obstacles_example.c)_ in this repository in order to understand how to use this library
 
-# make.bat
-I have included a bat file _(make.bat)_ to automate the compile process in Windows\
-Edit this file and change the second line with the name of your main c file _(without the extention)_\
-You must also change the third line with the path where you copied DevKit Advance bin directory
+# bat files
+I have included a bat files _(make_NAME_OF_EXAMPLE_CODE.bat)_ to automate the compile process in Windows\
+To create your own just copy this file and edit the second line. Change it with the name of your main c file _(without the extention)_\
+Change also the third line with the path where you copied DevKit Advance bin directory in your system
