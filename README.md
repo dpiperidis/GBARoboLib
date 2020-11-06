@@ -1,7 +1,7 @@
 # GBARoboLib
 GameBoy Advance Library which resembles arduino programming style
 
-# Reguirements
+# Requirements
 This library requires DevKit Advance to be properly installed in your system
 http://devkitadv.sourceforge.net/ \
 Optionally you can install Visual Boy Advance to test your programs
