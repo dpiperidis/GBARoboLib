@@ -22,7 +22,7 @@ gcc -o gbafix.exe gbafix.c
 # Usage
 Copy the directory robolib to your project folder _(where your main c file is)_. Include GBARoboLib to your main c file with the command\
 #include "robolib/gbarobot.h"\
-See the example code _(robot_avoid_obstacles_example.c)_ in this repository in order to understand how to use this library
+See the example codes _(helloworld.c and robot_avoid_obstacles_example.c)_ in this repository in order to understand how to use this library
 
 # bat files
 I have included a bat files _(make_NAME_OF_EXAMPLE_CODE.bat)_ to automate the compile process in Windows\
